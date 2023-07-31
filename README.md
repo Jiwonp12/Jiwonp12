@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=200&section=header&text=Hello!%20I'm%20Jiwon&fontSize=60&animation=fadeIn)
 <div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=200&section=header&text=Hello!%20I'm%20Jiwon&fontSize=60&animation=fadeIn)
   <h3>🐣 Introduction</h3>
   <br/>
  <p>안녕하세요! 프론트엔드 개발자 박지원입니다!</p>
