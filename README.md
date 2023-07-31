@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
-<br/><br/><br/>
+<br/><br/><br/><br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwonp12&langs_count=8)](https://github.com/Jiwonp12/github-readme-stats)
 <br/><br/><br/>
