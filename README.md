@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <br/>
 <h3>✏️ Studying</h3>
+</br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
