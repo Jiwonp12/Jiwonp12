@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=200&section=header&text=Hello!%20I'm%20Jiwon&fontSize=60&animation=fadeIn)
   <h3>🐣 Introduction</h3>
   <br/>
- <p>안녕하세요! 프론트엔드 개발자 박지원입니다!</p>
+ <p>안녕하세요! 프론트엔드 개발자 박지원입니다!</p> 
  <h3>📚 Skills</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
